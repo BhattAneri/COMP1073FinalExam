@@ -1,6 +1,5 @@
-// JSON Document
 {
-  "cats": [
+  "cats":[
     {
       "name" : "Stevie",
       "species" : "Cat",
